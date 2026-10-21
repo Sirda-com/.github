@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="SirDa — Better surfaces. Built around you.">
+<rect width="1280" height="430" fill="#F7F7F4"/>
+<path d="M920 0H1280V430H785Z" fill="#E8ECEE"/>
+<g fill="none" stroke="#CDD6DB" stroke-width="1.5"><circle cx="1120" cy="208" r="185"/><circle cx="1120" cy="208" r="145"/><circle cx="1120" cy="208" r="105"/><path d="M920 208h360M1120 0v420"/></g>
+<rect x="58" y="50" width="30" height="4" fill="#AC3E35"/>
+<text x="102" y="59" font-family="Arial, sans-serif" font-size="15" letter-spacing="3" fill="#657176">SHOT BLASTING &amp; SURFACE PREPARATION</text>
+<text x="58" y="122" font-family="Arial, sans-serif" font-style="italic" font-weight="900" font-size="43"><tspan fill="#AC3E35">Sir</tspan><tspan fill="#16365F">Da</tspan><tspan fill="#AC3E35">.</tspan></text>
+<text x="55" y="213" font-family="Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-2" fill="#202B30">Better surfaces.</text>
+<text x="55" y="292" font-family="Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-2" fill="#AC3E35">Built around you.</text>
+<path d="M58 335H1222" stroke="#CCD4D7"/>
+<text x="58" y="380" font-family="Arial, sans-serif" font-size="17" fill="#657176">STEEL PLATES &amp; STRUCTURES</text>
+<text x="470" y="380" font-family="Arial, sans-serif" font-size="17" fill="#657176">CASTINGS &amp; METAL PARTS</text>
+<text x="860" y="380" font-family="Arial, sans-serif" font-size="17" fill="#657176">CONTINUOUS PRODUCTION</text>
+<rect y="424" width="1280" height="6" fill="#AC3E35"/>
+</svg>
